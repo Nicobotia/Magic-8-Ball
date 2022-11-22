@@ -1,3 +1,3 @@
 # Magic-8-Ball
 
-Small fun project creating a random answer from a user input question.
+Fun project creating a random answer from a user input question.
